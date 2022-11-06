@@ -1,0 +1,98 @@
+{
+    "canvasSize": [
+        1080,
+        1380
+    ],
+    "backgroundLayer": {
+        "rotation": 0,
+        "color": {
+            "red": 0.05,
+            "alpha": 1,
+            "blue": 0.15,
+            "green": 0.15
+        },
+        "order": 0,
+        "translation": [
+            0,
+            0
+        ],
+        "scale": [
+            1,
+            1
+        ]
+    },
+    "solidColorLayer": [],
+    "imageLayers": [
+        {
+            "path": "https://static.toiimg.com/photo/msid-95096810/95096810.jpg",
+            "rotation": 0,
+            "order": 1,
+            "aspectFits": true,
+            "translation": [
+                0.5,
+                0.15
+            ],
+            "scale": [
+                1,
+                0.8
+            ]
+        },
+        {
+            "path": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/ojhh8mfe5zbsqi8t_1667699667.jpeg?tr=w-468,h-259",
+            "rotation": 0,
+            "order": 2,
+            "aspectFits": true,
+            "translation": [
+                0.5,
+                0.8
+            ],
+            "scale": [
+                1,
+                0.8
+            ]
+        },
+        {
+            "path": "https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png",
+            "rotation": 0,
+            "order": 3,
+            "aspectFits": true,
+            "translation": [
+                0.5,
+                0.5
+            ],
+            "scale": [
+                0.37,
+                0.37
+            ]
+        }
+    ],
+    "textLayers": [
+        {
+            "fontSize": 14,
+            "rotation": 0,
+            "color": {
+                "red": 1,
+                "alpha": 1,
+                "blue": 1,
+                "green": 1
+            },
+            "order": 4,
+            "backgroundColor": {
+                "red": 0,
+                "alpha": 1,
+                "blue": 0.7,
+                "green": 0.02
+            },
+            "contents": "This is a demo meme 😂 !!!",
+            "translation": [
+                1,
+                0.05
+            ],
+            "scale": [
+                1,
+                1
+            ]
+        }
+    ]
+}
+

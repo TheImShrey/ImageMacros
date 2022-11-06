@@ -1,0 +1,80 @@
+{
+    "canvasSize": [
+        1080,
+        1380
+    ],
+    "backgroundLayer": {
+        "path": "https://i.pinimg.com/736x/ab/6d/70/ab6d70aa684f8262313dff2897398949.jpg",
+        "rotation": 0,
+        "order": 0,
+        "aspectFits": false,
+        "translation": [
+            0.5,
+            0.2
+        ],
+        "scale": [
+            1,
+            1
+        ],
+    },
+    "solidColorLayer": [],
+    "imageLayers": [
+        {
+            "path": "https://m.media-amazon.com/images/M/MV5BMTQ3ZGIzNjMtYWJhMC00MDRhLTgyYWItMjBjNzM0MTIzM2JlXkEyXkFqcGdeQWRvb2xpbmhk._V1_.jpg",
+            "rotation": 0,
+            "order": 1,
+            "aspectFits": true,
+            "translation": [
+                0.8,
+                0.25
+            ],
+            "scale": [
+                0.55,
+                0.55
+            ]
+        },
+        {
+            "path": "https://hbomax-images.warnermediacdn.com/images/GXoZVkwh6YrLCwgEAAACJ/tile?size=640x360&partner=hbomaxcom&v=5011e3314816b690997444081141eae4&host=art-gallery.api.hbo.com&language=en-us",
+            "rotation": 0,
+            "order": 2,
+            "aspectFits": true,
+            "translation": [
+                0.15,
+                0.8
+            ],
+            "scale": [
+                0.55,
+                0.55
+            ]
+        }
+    ],
+    "textLayers": [
+        {
+            "fontSize": 14,
+            "rotation": 0,
+            "color": {
+                "red": 1,
+                "alpha": 1,
+                "blue": 1,
+                "green": 1
+            },
+            "order": 4,
+            "backgroundColor": {
+                "red": 0.05,
+                "alpha": 1,
+                "blue": 0.02,
+                "green": 0.7
+            },
+            "contents": "Lorem Ipsum 🤖 !!!",
+            "translation": [
+                0.5,
+                0.05
+            ],
+            "scale": [
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}
+
